@@ -29,4 +29,7 @@ Unity from Zero to Proficiency<br/>
 Unity5.X从入门到精通<br/>
 
 
+-----------------------------------------------
 
+如果大家有什么下载问题， 或者英语苦手，需要中文字幕的也可以留言<br/>
+wangdudu15@gmail.com
