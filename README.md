@@ -2,7 +2,7 @@
 
 **============= Unity 基础入门=============**
 
-Udemy 上评价还不错的学习视频,  基本上看看的话，对C# 和 unity 之前没有什么接触过的都能够很快的上手
+Udemy 上评价还不错的学习视频
 
 
 **[Complete C# Unity Developer 2D: Learn to Code Making Games](https://github.com/sweet-melone/game-unity/wiki/2D)** <br/>
@@ -18,7 +18,7 @@ Udemy 上评价还不错的学习视频,  基本上看看的话，对C# 和 unit
 
 **=============Unity 小游戏练习=============**
 
-没事做些小游戏， 挺好玩的。 重要的是大部分大型游戏其实游戏的基本开发都差不多。
+练习些小游戏还是挺重要的， 毕竟大游戏其实基本开发都差不多。
 
 **[The Ultimate Guide to Game Development with Unity](https://github.com/sweet-melone/game-unity/wiki/galaxy-shooter)** <br/>
 [如何开发星空射击游戏] Udemy 自学视频 -- C# Unity 一步一步如何开发星空射击游戏
